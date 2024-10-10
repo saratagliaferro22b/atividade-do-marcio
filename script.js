@@ -1,4 +1,4 @@
-function somar() {
+function Multiplicar() {
     const numero1 = Number(document.querySelector("#numero-1").value)
     const numero2 = Number(document.querySelector("#numero-2").value)
     const numero3 = Number(document.querySelector("#numero-3").value)
